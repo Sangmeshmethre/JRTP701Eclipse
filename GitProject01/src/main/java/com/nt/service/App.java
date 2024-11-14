@@ -13,7 +13,9 @@ public class App {
 		return x-y;
 	}
 	public int multi(int x, int y) {
-		return x*y;
+		System.out.println("Mutl() method");
+		int c = x*y;
+		return c;
 	}
 	
 	public int division(int x, int y) {
