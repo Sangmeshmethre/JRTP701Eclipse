@@ -13,6 +13,7 @@ public class App {
 		return x-y;
 	}
 	public int multi(int x, int y) {
+		System.out.println("multiply method");
 		return x*y;
 	}
 	
